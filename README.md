@@ -6,7 +6,7 @@ __Transform:__ clean and structure the data to suit business needs.
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
 ##  Objective: 
-##### Each member of our project group chose two data sources to analyze Annual International Energy Source Consumption throughout several years and countries.
+##### Each member of our project group chose two data sources to analyze _Annual International Energy Source Consumption_ throughout several years and countries.
 __[Group Repo](https://github.com/mkung8889/etl_project)__
 
 ### Members:  
