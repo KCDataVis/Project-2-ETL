@@ -1,5 +1,4 @@
-# ETL : Extract, Transform, Load Project:
-
+# ETL : Extract, Transform, Load:
 __Extract:__ read the data, often from mupltiple sources/formats.
 
 __Transform:__ clean and structure the data to suit business needs.
