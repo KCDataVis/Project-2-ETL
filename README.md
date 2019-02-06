@@ -11,7 +11,7 @@ __Load:__ load the data into a database for storage that can be used for future 
 __[Group Repo](https://github.com/mkung8889/etl_project)__
 
 ### Members:  
-__[Kristen](https://github.com/KCDataVis)__ 
+__[Kristen](https://github.com/KCDataVis/Project-2-ETL)__ 
 - __[World Oil Consumption (Enerdata)](https://yearbook.enerdata.net/oil-products/world-oil-domestic-consumption-statistics.html)__
 - __[International Coal Consumption (EIA)](https://www.eia.gov/beta/international/data/browser/#/?pa=0000000000000000000000000000000000000000000000000000000000g&c=ruvvvvvfvtvnvv1vrvvvvfvvvvvvfvvvou20evvvvvvvvvvvvuvs&ct=0&vs=INTL.4411-2-AFG-QBTU.A&vo=0&v=H&start=1990&end=2016)__
 
